@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: trustaff Travel Nursing Jobs
-image: /img/home-jumbotron.jpg
+image: /img/trustaff-hero-banner.jpg
 heading: Some heading
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
